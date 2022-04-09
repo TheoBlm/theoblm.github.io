@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77605127.css",
-    "main.js": "/static/js/main.99d20c9f.js",
+    "main.js": "/static/js/main.b4c3f87d.js",
     "static/media/sky2.png": "/static/media/sky2.a11a4c6d529787e5ad61.png",
     "static/media/me.png": "/static/media/me.0fbf643e6810219e64c2.png",
     "static/media/portfolio3.jpg": "/static/media/portfolio3.125e5f9e7f71adc836ad.jpg",
@@ -9,16 +9,13 @@
     "static/media/mon-cv.pdf": "/static/media/mon-cv.e49fdddf38da98eee1d6.pdf",
     "static/media/portfolio2.jpg": "/static/media/portfolio2.8007ba0b35eca749fe68.jpg",
     "static/media/logo.png": "/static/media/logo.2a8cdea9e8b9b3ba2b78.png",
+    "static/media/favicon.ico": "/static/media/favicon.703691f1d94f344b0bf6.ico",
     "index.html": "/index.html",
     "main.77605127.css.map": "/static/css/main.77605127.css.map",
-    "main.99d20c9f.js.map": "/static/js/main.99d20c9f.js.map"
+    "main.b4c3f87d.js.map": "/static/js/main.b4c3f87d.js.map"
   },
-  "entrypoints": ["static/css/main.77605127.css", "static/js/main.99d20c9f.js"],
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
+  "entrypoints": [
+    "static/css/main.77605127.css",
+    "static/js/main.b4c3f87d.js"
   ]
 }
